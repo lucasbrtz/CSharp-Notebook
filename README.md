@@ -28,6 +28,38 @@ O .NET possui dois componentes, sendo eles:
 
 **Common Language Runtime (CLR):** é uma máquina virtual que executa os programas feitos no .NET. É aqui que o código é convertido em linguagem de máquina de forma que o processador possa executar o programa.
 
+## Comandos iniciais .NET
+
+- Para criar um novo projeto console:
+
+```powershell
+dotnet new console -o MeuApp
+```
+
+- Comando que busca todos os pacotes que a aplicação precisa para ser executada:
+
+```powershell
+dotnet restore
+```
+
+- Comando que compila:
+
+```powershell
+dotnet build
+```
+
+- Comando que limpa o cache:
+
+```powershell
+dotnet clean
+```
+
+- Comando que roda a aplicação:
+
+```powershell
+dotnet run
+```
+
 ## Referências
 
 [What is .NET?](https://dotnet.microsoft.com/en-us/learn/dotnet/what-is-dotnet)
