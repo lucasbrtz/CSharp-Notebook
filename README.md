@@ -65,3 +65,5 @@ dotnet run
 [What is .NET?](https://dotnet.microsoft.com/en-us/learn/dotnet/what-is-dotnet)
 
 [Common Language Runtime](https://en.wikipedia.org/wiki/Common_Language_Runtime)
+
+[C# COMPLETO Programação Orientada a Objetos + Projetos](https://www.udemy.com/course/programacao-orientada-a-objetos-csharp/)
