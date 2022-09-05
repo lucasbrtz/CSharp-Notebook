@@ -24,11 +24,12 @@ C# é uma linguagem de programação desenvolvida pela Microsoft em 2000.
 #### Mais sobre o .NET
 O .NET possui dois componentes, sendo eles:
 
-**Framework Class Library (FCL):** é biblioteca que contém várias classes, tipos de dados, interfaces, etc, de forma a executar várias funções e construir diferentes tipos de aplicativos, como aplicativos de desktop, aplicativos da web, aplicativos móveis, etc.
+**Framework Class Library (FCL):** é uma biblioteca que contém várias classes, tipos de dados, interfaces, etc, de forma a executar várias funções e construir diferentes tipos de aplicativos, como aplicativos de desktop, aplicativos da web, aplicativos móveis, etc.
 
 **Common Language Runtime (CLR):** é uma máquina virtual que executa os programas feitos no .NET. É aqui que o código é convertido em linguagem de máquina de forma que o processador possa executar o programa.
 
 ## Referências
 
 [What is .NET?](https://dotnet.microsoft.com/en-us/learn/dotnet/what-is-dotnet)
+
 [Common Language Runtime](https://en.wikipedia.org/wiki/Common_Language_Runtime)
