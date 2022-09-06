@@ -80,9 +80,15 @@ dotnet run
 
 ## Referências
 
+[C Sharp (programming language)](https://en.wikipedia.org/wiki/C_Sharp_(programming_language))
+
 [What is .NET?](https://dotnet.microsoft.com/en-us/learn/dotnet/what-is-dotnet)
 
 [Common Language Runtime](https://en.wikipedia.org/wiki/Common_Language_Runtime)
+
+[O sistema do tipo C#](https://docs.microsoft.com/pt-br/dotnet/csharp/fundamentals/types/)
+
+[Linguagens de programação interpretadas x compiladas: qual é a diferença?](https://www.freecodecamp.org/portuguese/news/linguagens-de-programacao-interpretadas-x-compiladas-qual-e-a-diferenca/)
 
 [C# COMPLETO Programação Orientada a Objetos + Projetos](https://www.udemy.com/course/programacao-orientada-a-objetos-csharp/)
 
