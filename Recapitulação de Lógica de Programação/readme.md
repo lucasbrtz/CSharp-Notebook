@@ -15,6 +15,33 @@ Não farei muitas anotações aqui, apenas atualizarei o repositório com os exe
 - [Exercício 4]
 - [Exercício 5]
 - [Exercício 6]
+
+### ✔ [Estrutura Condicional](https://github.com/lucasbrtz/CSharp-Notebook/tree/main/Recapitula%C3%A7%C3%A3o%20de%20L%C3%B3gica%20de%20Programa%C3%A7%C3%A3o/Estrutura%20Condicional)
+- [Enunciados](https://github.com/lucasbrtz/CSharp-Notebook/blob/main/Recapitula%C3%A7%C3%A3o%20de%20L%C3%B3gica%20de%20Programa%C3%A7%C3%A3o/Estrutura%20Condicional/readme.md) 
+- [Exercício 1]
+- [Exercício 2]
+- [Exercício 3]
+- [Exercício 4]
+- [Exercício 5]
+- [Exercício 6]
+
+### ✔ [Estrutura While](https://github.com/lucasbrtz/CSharp-Notebook/tree/main/Recapitula%C3%A7%C3%A3o%20de%20L%C3%B3gica%20de%20Programa%C3%A7%C3%A3o/Estrutura%20While)
+- [Enunciados](https://github.com/lucasbrtz/CSharp-Notebook/blob/main/Recapitula%C3%A7%C3%A3o%20de%20L%C3%B3gica%20de%20Programa%C3%A7%C3%A3o/Estrutura%20While/readme.md) 
+- [Exercício 1]
+- [Exercício 2]
+- [Exercício 3]
+- [Exercício 4]
+- [Exercício 5]
+- [Exercício 6]
+
+### ✔ [Estrutura For](https://github.com/lucasbrtz/CSharp-Notebook/tree/main/Recapitula%C3%A7%C3%A3o%20de%20L%C3%B3gica%20de%20Programa%C3%A7%C3%A3o/Estrutura%20For)
+- [Enunciados](https://github.com/lucasbrtz/CSharp-Notebook/blob/main/Recapitula%C3%A7%C3%A3o%20de%20L%C3%B3gica%20de%20Programa%C3%A7%C3%A3o/Estrutura%20For/readme.md) 
+- [Exercício 1]
+- [Exercício 2]
+- [Exercício 3]
+- [Exercício 4]
+- [Exercício 5]
+- [Exercício 6]
   
 </details>
 
