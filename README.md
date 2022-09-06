@@ -14,6 +14,24 @@ Abaixo vocês terão acesso aos projetos realizados até aqui.
 ### O que é uma linguagem de programação?
 É um sistema de comunicação estruturado, composto por um conjunto de símbolos, palavras-chave, regras semânticas e sintáticas que permitem que um programador se comunique com a máquina.
 
+Computadores utilizam apenas linguagem binária. Dessa forma, o código é traduzido para a linguagem do computador. Chamamos esse processo de tradução de compilação e cada linguagem tem seu compilador.
+
+### Classificações
+
+Existem dois tipos de linguagens, os quais chamamos de linguagem de alto nível e linguagem de baixo nível.
+
+Chamamos de linguagem de alto nível aquela cuja sintaxe é voltada para o entendimento humano. Isso significa que esse tipo de linguagem é muito mais intuitivo, amigável e mais fácil de aprender. Já as linguagemns de baixo nível são voltadas para o entendimento da máquina, isto é, elas têm uma sintaxe mais complexa e não contam com comandos tão intuitivos.
+
+|                    Linguagens Compiladas                     |                   Linguagens Interpretadas                   |
+| :----------------------------------------------------------: | :----------------------------------------------------------: |
+| As linguagens compiladas são convertidas diretamente na máquina em um código de máquina que o processador pode executar. | Os interpretadores passam pelo programa linha por linha e executam cada comando. |
+
+A maioria das linguagens de programação pode ter implementações compiladas e interpretadas – a linguagem em si não é necessariamente compilada ou interpretada. Porém, para fins de simplicidade, elas são normalmente referidas deste modo.
+
+Também é possível caracterizar uma linguagem quanto à sua tipagem. C# é uma linguagem fortemente tipada, pois obriga o programador a especificar o tipo de dado a ser tratado, o que ajuda a evitar erros por manipulação imprópria de tipos e atribuições incorretas.
+
+Dessa forma, podemos dizer que C# é uma linguagem de alto nível, compilada e fortemente tipada.
+
 ### C# e .NET
 É importante começar definindo o que é C# e o que é .NET para que ambos não sejam confundidos.
 
@@ -67,3 +85,5 @@ dotnet run
 [Common Language Runtime](https://en.wikipedia.org/wiki/Common_Language_Runtime)
 
 [C# COMPLETO Programação Orientada a Objetos + Projetos](https://www.udemy.com/course/programacao-orientada-a-objetos-csharp/)
+
+[Linguagem de alto nível vs linguagem de baixo nível: definições e diferenças!](https://blog.betrybe.com/linguagem-de-programacao/linguagem-alto-e-baixo-nivel/)
