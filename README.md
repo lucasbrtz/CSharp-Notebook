@@ -30,7 +30,7 @@ O .NET possui dois componentes, sendo eles:
 
 ## Comandos iniciais .NET
 
-- Para criar um novo projeto console:
+- Para criar um novo projeto:
 
 ```powershell
 dotnet new console -o MeuApp
