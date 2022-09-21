@@ -35,12 +35,13 @@ Não farei muitas anotações aqui, apenas atualizarei o repositório com os exe
 
 ### ✔ [Estrutura For](https://github.com/lucasbrtz/CSharp-Notebook/tree/main/Recapitula%C3%A7%C3%A3o%20de%20L%C3%B3gica%20de%20Programa%C3%A7%C3%A3o/Estrutura%20For)
 - [Enunciados](https://github.com/lucasbrtz/CSharp-Notebook/blob/main/Recapitula%C3%A7%C3%A3o%20de%20L%C3%B3gica%20de%20Programa%C3%A7%C3%A3o/Estrutura%20For/readme.md) 
-- [Exercício 1]
-- [Exercício 2]
-- [Exercício 3]
-- [Exercício 4]
-- [Exercício 5]
-- [Exercício 6]
+- [Exercício 1](https://github.com/lucasbrtz/CSharp-Notebook/blob/main/Recapitula%C3%A7%C3%A3o%20de%20L%C3%B3gica%20de%20Programa%C3%A7%C3%A3o/Estrutura%20For/Exerc%C3%ADcio%201/Program.cs)
+- [Exercício 2](https://github.com/lucasbrtz/CSharp-Notebook/blob/main/Recapitula%C3%A7%C3%A3o%20de%20L%C3%B3gica%20de%20Programa%C3%A7%C3%A3o/Estrutura%20For/Exerc%C3%ADcio%202/Program.cs)
+- [Exercício 3](https://github.com/lucasbrtz/CSharp-Notebook/blob/main/Recapitula%C3%A7%C3%A3o%20de%20L%C3%B3gica%20de%20Programa%C3%A7%C3%A3o/Estrutura%20For/Exerc%C3%ADcio%203/Program.cs)
+- [Exercício 4](https://github.com/lucasbrtz/CSharp-Notebook/blob/main/Recapitula%C3%A7%C3%A3o%20de%20L%C3%B3gica%20de%20Programa%C3%A7%C3%A3o/Estrutura%20For/Exerc%C3%ADcio%204/Program.cs)
+- [Exercício 5](https://github.com/lucasbrtz/CSharp-Notebook/blob/main/Recapitula%C3%A7%C3%A3o%20de%20L%C3%B3gica%20de%20Programa%C3%A7%C3%A3o/Estrutura%20For/Exerc%C3%ADcio%205/Program.cs)
+- [Exercício 6](https://github.com/lucasbrtz/CSharp-Notebook/blob/main/Recapitula%C3%A7%C3%A3o%20de%20L%C3%B3gica%20de%20Programa%C3%A7%C3%A3o/Estrutura%20For/Exerc%C3%ADcio%206/Program.cs)
+- [Exercício 7](https://github.com/lucasbrtz/CSharp-Notebook/blob/main/Recapitula%C3%A7%C3%A3o%20de%20L%C3%B3gica%20de%20Programa%C3%A7%C3%A3o/Estrutura%20For/Exerc%C3%ADcio%207/Program.cs)
   
 </details>
 
